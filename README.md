@@ -1,3 +1,3 @@
 # Portfolio
 
-Hi! This is the repo about my personal portfolio, enjoin :)
+Hi! This is the repo about my personal portfolio, enjoy :)
